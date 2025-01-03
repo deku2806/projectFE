@@ -224,8 +224,8 @@ a {
   padding: 170px 0;
 }
 
-.service-heading,
-.service-desc {
+.service__heading,
+.service__desc {
   text-align: center;
 }
 
